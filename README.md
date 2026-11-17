@@ -1,3 +1,4 @@
+<img width="3880" height="3040" alt="image-1794933050647" src="https://github.com/user-attachments/assets/ad2e477a-364d-4d6e-bba8-2d8284d53d90" />
 
 # Luxury Hotels — AWS EKS and RDS Infrastructure
 
